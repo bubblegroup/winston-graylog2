@@ -33,7 +33,7 @@
     }
   ],
   "dependencies": {
-    "graylog2": "git://github.com/bubblegroup/node-graylog2#master",
+    "graylog2": "git://github.com/bubblegroup/node-graylog2#35759a80708e481bf390c2b6316e419cb532f95a",
     "lodash": "^3.1.0",
     "winston": "^1.0.0"
   },
